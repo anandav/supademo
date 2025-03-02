@@ -10,6 +10,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.2" />
     <PackageReference Include="supabase" Version="1.1.1" />
+    <PackageReference Include="Supabase.Gotrue" Version="6.0.3" />
   </ItemGroup>
 
 </Project>
